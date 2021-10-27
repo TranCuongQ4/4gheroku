@@ -7,15 +7,7 @@ Với nhu cầu không quá cao thì heroku chính là giải pháp hoàn hảo 
 * 2TB mỗi tháng
 * 550 giờ mỗi tháng (~23 ngày, dĩ nhiên bạn cần ngủ 8 tiếng 1 ngày nên 550 giờ là quá đủ)
 
-Anh em xem hướng dẫn ở đây nhé:
-
-[![4G Free](https://img.youtube.com/vi/79jkqGWi0zU/0.jpg)](https://www.youtube.com/watch?v=79jkqGWi0zU)
-
 =============================================================
-
-# V2Ray Heroku
-
-**Nếu bạn cần triển khai V2Ray VLESS，thì qua bài viết này [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless)**
 
 ## Tổng quan
 
@@ -31,7 +23,7 @@ Sau khi triển khai, mỗi khi khởi động sẽ tải bản V2Ray mới nh�
  2. Sửa lại tên dự án thành tên bất kỳ không nên chứa hai từ khóa `v2ray` và `heroku`（Ví dụ đổi thành `demo`）
  3. Sửa lại file `README.md`，đường dẫn `kim7tin/v2heroku` bằng đường dẫn của bạn（ví dụ `example/demo`）
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/kim7tin/v2heroku)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/TranCuongQ4/4gheroku)
 
  4. Quay lại trang chủ của dự án，bấm vào liên kết để triển khai V2Ray
 

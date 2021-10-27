@@ -21,7 +21,7 @@ Sau khi triển khai, mỗi khi khởi động sẽ tải bản V2Ray mới nh�
 
  1. Fork dự án này qua tài khoản GitHub của bạn（trên PC có thể thấy nút Fork trên cùng bên tay phải, ví dụ tài khoản của bạn tên là `example`）
  2. Sửa lại tên dự án thành tên bất kỳ không nên chứa hai từ khóa `v2ray` và `heroku`（Ví dụ đổi thành `demo`）
- 3. Sửa lại file `README.md`，đường dẫn `kim7tin/v2heroku` bằng đường dẫn của bạn（ví dụ `example/demo`）
+ 3. Sửa lại file `README.md`，đường dẫn `TranCuongQ4/4gheroku` bằng đường dẫn của bạn（ví dụ `example/demo`）
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/TranCuongQ4/4gheroku)
 
